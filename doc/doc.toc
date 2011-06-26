@@ -1,0 +1,6 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}{section.1}
+\contentsline {section}{\numberline {2}Archivo de Configuraci\IeC {\'o}n}{1}{section.2}
+\contentsline {section}{\numberline {3}Pares potencial-densidad}{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}Preliminares}{1}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Potenciales para el disco homog\IeC {\'e}neo}{2}{subsection.3.2}
